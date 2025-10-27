@@ -12,7 +12,7 @@ import org.jetbrains.annotations.NotNull;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class CodeCounter extends AnAction {
+public class CodeCounterAction extends AnAction {
 
     @Override
     public void update(@NotNull AnActionEvent e) {

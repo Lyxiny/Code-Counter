@@ -1,21 +1,21 @@
 # Simple Code Counter Plugin for CLion
 
 **Автор:** Обмоин, М3120 
-**Версия:** 1.1
+**Версия:** 1.2
 
 ## Описание
 Плагин для CLion, который добавляет в контекстное меню возможность подсчета строк и символов в выбранных файлах и папках.
 ## Изменения
-Упростил зависимости
+Упростил зависимости и добавил кнопку В Tools.
 ## Возможности
 - Подсчет общего количества строк
 - Подсчет общего количества символов
 - Простое уведомление с результатами
 ## Установка
-1. Скачайте `code-counter-1.1.jar` из  [Releases](https://github.com/Lyxiny/Code-Counter/releases/tag/v1.1)
+1. Скачайте файл из  [Releases](https://github.com/Lyxiny/Code-Counter/releases/tag/v1.2)
 2. В CLion: Settings → Plugins → ⚙️ → Install Plugin from Disk...
 3. Выберите скачанный JAR файл
 4. Перезапустите CLion
 
 ## Использование
-Правой кнопкой на файле/папке → "Count Lines & Chars"
+Правой кнопкой на файле/папке → "Count Lines & Chars", Tools -> Coun.....
