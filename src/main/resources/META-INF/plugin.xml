@@ -1,18 +1,16 @@
 <idea-plugin>
     <id>cem.lyxiny.code-counter</id>
     <name>Simple Code Counter</name>
-    <vendor email="wotmastera2007@mail.ru">Obmoin Andrew</vendor>
+    <vendor email="wotamstera2007@mail.ru">Obmoin</vendor>
 
     <description><![CDATA[
-    Simple plugin that counts lines and characters in selected files or folders.<br>
-    <em>Right-click on any file or folder and select "Count Lines & Chars"</em>
+    Simple plugin that counts lines and characters in selected files or folders.
+    Right-click on any file or folder and select "Count Lines & Chars"
     ]]></description>
 
-    <depends>com.intellij.modules.platform</depends>
-    <depends>com.intellij.cidr.base</depends>
 
-    <extensions defaultExtensionNs="com.intellij">
-    </extensions>
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
 
     <actions>
         <action id="CodeCounter.Action"
