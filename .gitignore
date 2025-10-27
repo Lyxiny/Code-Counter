@@ -1,0 +1,16 @@
+# IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Gradle
+.gradle/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Plugin JAR files
+*.jar
