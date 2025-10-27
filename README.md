@@ -10,9 +10,8 @@
 - Подсчет общего количества строк
 - Подсчет общего количества символов
 - Простое уведомление с результатами
-
 ## Установка
-1. Скачайте `code-counter-1.0.jar` из Releases
+1. Скачайте `code-counter-1.0.jar` из  [Releases](https://github.com/Lyxiny/Code-Counter/releases/tag/v1.0)
 2. В CLion: Settings → Plugins → ⚙️ → Install Plugin from Disk...
 3. Выберите скачанный JAR файл
 4. Перезапустите CLion
